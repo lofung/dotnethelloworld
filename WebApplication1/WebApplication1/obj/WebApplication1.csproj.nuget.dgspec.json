@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1\\assignment1b\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\lychenus\\.nuget\\packages\\",
-        "outputPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1b\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\Centennial Lessons\\0 2023 summer\\COMP367 devops\\assignment1\\assignment1b\\WebApplication1\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lychenus\\AppData\\Roaming\\NuGet\\NuGet.Config",
